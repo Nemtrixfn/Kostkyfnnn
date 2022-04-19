@@ -93,7 +93,7 @@
        Grid.Column="9"
        Grid.Row="1"
        HorizontalContentAlignment="Center"
-       VerticalContentAlignment="Center"
+       VerticalContentAlignment="Stretch"
        FontSize="40"     
        HorizontalAlignment="Stretch"
        VerticalAlignment="Stretch"
